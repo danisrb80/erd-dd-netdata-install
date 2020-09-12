@@ -51,7 +51,7 @@ cd ~/custom_netdata && rm -rf erd-dd-netdata-monitoring
 
 # Cloning github files
 
-git clone https://github.com/disruptivedigital/erd-dd-netdata-monitoring.git
+git clone https://github.com/danisrb80/erd-dd-netdata-monitoring.git
 
 sudo cp ~/custom_netdata/erd-dd-netdata-monitoring/elrond.chart.sh /usr/libexec/netdata/charts.d/
 sudo cp ~/custom_netdata/erd-dd-netdata-monitoring/charts.d.conf /usr/libexec/netdata/charts.d/
