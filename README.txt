@@ -13,4 +13,4 @@ sudo apt install git
 rm -rf erd-dd-netdata-install
 
 > Then git clone:
-cd ~ && git clone https://github.com/disruptivedigital/erd-dd-netdata-install.git && cd erd-dd-netdata-install && bash netdata-mainnet-install-config.sh
+cd ~ && git clone https://github.com/danisrb80/erd-dd-netdata-install.git && cd erd-dd-netdata-install && bash netdata-mainnet-install-config.sh
